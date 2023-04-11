@@ -1,0 +1,3 @@
+SELECT * 
+FROM "cloudportfolio"."population_demographics_data"
+WHERE "country name" IN ('India', 'China', 'United States', 'France');
